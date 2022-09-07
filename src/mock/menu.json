@@ -1,0 +1,63 @@
+{
+    "menu": [
+        {
+            "title": "首页",
+            "icon": "HomeFilled",
+            "_id": "627cbd55c452000002003092",
+            "key": "",
+            "children": [],
+            "level": "0",
+            "label": "首页"
+        },
+        {
+            "title": "",
+            "_id": "627cbe43c452000002003094",
+            "children": [
+                {
+                    "key": "data-table",
+                    "label": "样本列表",
+                    "level": "1-0",
+                    "icon": ""
+                },
+                {
+                    "key": "data-timeline",
+                    "label": "样本流程",
+                    "level": "1-1",
+                    "icon": ""
+                },
+                {
+                    "key": "data-site",
+                    "label": "样本位置",
+                    "level": "1-2",
+                    "icon": ""
+                }
+            ],
+            "level": "1",
+            "label": "数据管理",
+            "key": "data",
+            "icon":"DataLine"
+        },
+        {
+            "title": "",
+            "icon": "Paperclip",
+            "_id": "6298578d1b0e0000850078b4",
+            "key": "resource",
+            "label": "资源管理",
+            "level": "2",
+            "children": [
+                {
+                    "key": "resource-equip",
+                    "label": "器材",
+                    "level": "2-0",
+                    "icon": ""
+                },
+                {
+                    "key": "resource-material",
+                    "label": "物料",
+                    "level": "2-1",
+                    "icon": ""
+                }
+            ]
+        }
+    ]
+}
